@@ -4,7 +4,6 @@
 
 We wanted to create a demo flask app to work on k8s, and OpenShift, and Code Engine for KubeConNA 2022.
 
-
 ```text
 Copyright:: 2022- IBM, Inc
 
